@@ -18,5 +18,8 @@
     "url": "https://github.com/mise-en-place/utilities.nowrap.git"
   },
   "author": "Kind",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "breakpoint-sass": "^2.7.1"
+  }
 }
